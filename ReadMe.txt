@@ -1,0 +1,1 @@
+This is my first project of the Online Course I am taking from Udemy. I have created a personal CV in HTML.
